@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne3\bin\Debug\Ülesanne3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne3\bin\Debug\Ülesanne3.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne3\bin\Debug\Ülesanne3.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne3\obj\Debug\Ülesanne3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne3\obj\Debug\Ülesanne3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne3\obj\Debug\Ülesanne3.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne3\obj\Debug\Ülesanne3.pdb

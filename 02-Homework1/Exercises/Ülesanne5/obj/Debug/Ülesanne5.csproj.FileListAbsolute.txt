@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne5\bin\Debug\Ülesanne5.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne5\bin\Debug\Ülesanne5.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne5\bin\Debug\Ülesanne5.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne5\obj\Debug\Ülesanne5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne5\obj\Debug\Ülesanne5.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö1\Ülesanne5\obj\Debug\Ülesanne5.pdb
