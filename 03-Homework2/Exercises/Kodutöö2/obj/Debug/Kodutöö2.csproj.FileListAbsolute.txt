@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö2\Kodutöö2\bin\Debug\Kodutöö2.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö2\Kodutöö2\bin\Debug\Kodutöö2.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö2\Kodutöö2\bin\Debug\Kodutöö2.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö2\Kodutöö2\obj\Debug\Kodutöö2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö2\Kodutöö2\obj\Debug\Kodutöö2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö2\Kodutöö2\obj\Debug\Kodutöö2.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Saves\Kodutöö2\Kodutöö2\obj\Debug\Kodutöö2.pdb
