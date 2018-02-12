@@ -24,10 +24,12 @@ namespace Tunnikontroll
                     string str1 = sõna.Remove(0, 1);
                     string keskosa = str1.Remove(str1.Length - 1, 1);
                     string mixedkeskosa = keskosa;
+                    int i = 0;
 
-                    while(keskosa == mixedkeskosa)     //Kui tagastatakse juhuslikult sama sõna, mixi uuesti
+                    while(keskosa == mixedkeskosa && i < 50)     //Kui tagastatakse juhuslikult sama sõna, mixi uuesti
                     {
                         mixedkeskosa = Shuffle.StringMixer(keskosa);
+                        i++;   //Kui ei ole vähemalt 2 erinevat tähte, pole võimalik mixida, lõpeta peale teatud arvu katseid
                     }
 
                     string uussõna = string.Join("", algustäht, mixedkeskosa, lõpptäht);
